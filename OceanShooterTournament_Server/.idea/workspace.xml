@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4b598ec-49b7-4b5d-97b9-cea4af1d53ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/Bullet/Bullet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/ItemDataServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/ItemDataServer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/Resources/Core/NetworkManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/Resources/Core/NetworkManager.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Datas/FakeGameplay.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Datas/FakeGameplay/FishServerConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Datas/FakeGameplay/FishServerConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scenes/FishGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scenes/FishGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Bullet.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/Bullet.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Bullet/Bullet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Bullet/Bullet.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/Bullet/Bullet.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Bullet/EffectBullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/Bullet/EffectBullet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Bullet/EffectBullet.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/Bullet/EffectBullet.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Coin.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/Coin.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Coin/EffectCoin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/Coin/EffectCoin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Coin/EffectCoin.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/Coin/EffectCoin.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Core/NetworkManager/DAO/DAO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Core/NetworkManager/DAO/DAO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FakeGameplay.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FakeGameplay/FakeGameplayManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FakeGameplay/FakeGameplayManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FakeGameplay/FishServerConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FakeGameplay/FishServerConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishConfigSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishConfigSO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishConfigSO.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishConfigSO.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishDataServer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishDataServer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishFactory.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishFactory.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/BaseFish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/BaseFish.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/BaseFish.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/BaseFish.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishAnkangyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishAnkangyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishAnkangyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishAnkangyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishBaolongwang.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishBaolongwang.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishBaolongwang.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishBaolongwang.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishBaoxiang.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishBaoxiang.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishBaoxiang.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishBaoxiang.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishDenglongyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishDenglongyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishDenglongyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishDenglongyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishDoubaoyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishDoubaoyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishDoubaoyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishDoubaoyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishDouxia.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishDouxia.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishDouxia.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishDouxia.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHBBYShuimu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHBBYShuimu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHBBYShuimu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHBBYShuimu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHaidaochuan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHaidaochuan.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHaidaochuan.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHaidaochuan.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHaigui.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHaigui.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHaigui.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHaigui.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHaitun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHaitun.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHaitun.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHaitun.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHetun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHetun.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHetun.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHetun.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHongshanyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHongshanyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHongshanyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHongshanyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHuangjunchutousha.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHuangjunchutousha.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHuangjunchutousha.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHuangjunchutousha.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHudieyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHudieyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishHudieyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishHudieyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishJiewenyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishJiewenyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishJiewenyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishJiewenyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishJinjiahusha.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishJinjiahusha.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishJinjiahusha.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishJinjiahusha.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishJinlongwang.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishJinlongwang.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishJinlongwang.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishJinlongwang.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishJinlongyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishJinlongyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishJinlongyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishJinlongyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishLongliyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishLongliyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishLongliyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishLongliyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishMeirenyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishMeirenyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishMeirenyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishMeirenyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishMeirenyu2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishMeirenyu2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishMeirenyu2.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishMeirenyu2.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishShenhaifufenwang.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishShenhaifufenwang.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishShenhaifufenwang.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishShenhaifufenwang.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishShiziyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishShiziyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishShiziyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishShiziyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishTuobaoguiwang.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishTuobaoguiwang.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishTuobaoguiwang.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishTuobaoguiwang.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishXiaochouyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishXiaochouyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishXiaochouyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishXiaochouyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishZhangyu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishZhangyu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishZhangyu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishZhangyu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishZhangyuwang.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishZhangyuwang.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/FishComponent/FishType/FishZhangyuwang.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/ServerItem/FishComponent/FishType/FishZhangyuwang.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/MainGameplay.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/MainGameplay/GenerateFishMachine.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/MainGameplay/GenerateFishMachine/GenerateFishMachine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/MainGameplay/GenerateFishMachine/GenerateFishMachine.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Manager/FishGameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Manager/FishGameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Popup/PlayBattleLoadingPopup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OceanShooterTournament_Client/Assets/_Game/Scripts/Popup/PlayBattleLoadingPopup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/action/ShootObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/action/ShootObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oceanshootertournament_server/model/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oceanshootertournament_server/model/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oceanshootertournament_server/model/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oceanshootertournament_server/model/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oceanshootertournament_server/thread/GamePlayThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oceanshootertournament_server/thread/GamePlayThread.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2neujwVQFbzJBu67OpO4wpCpDTd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.OceanShooterTournament_Server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Client/VuHoang&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Docs/Ptit/IYear4/LTM/ProjectClient/json-simple-1.1.1.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 10.1.28" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/../../../../PTTKHTTT/Deploye">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Deploye" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f8a30aca-03fc-4343-b4af-e77efede4ca2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56777" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OceanShooterTournament_Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oceanshootertournament_server.OceanShooterTournament_Server" />
+      <module name="OceanShooterTournament_Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oceanshootertournament_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="\jsp-servlet-jbdc-mysql-dao" />
+      <option name="docBase" value="D:\Docs\Ptit\IYear4\PTTKHTTT\jsp-servlet-jbdc-mysql-dao\src\main\webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.28" />
+          <option name="path" value="$PROJECT_DIR$/../../../../PTTKHTTT/Java Package/apache-tomcat-10.1.28" />
+          <option name="version" value="10.1.28.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OceanShooterTournament_Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b598ec-49b7-4b5d-97b9-cea4af1d53ba" name="Changes" comment="" />
+      <created>1729346002482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729346002482</updated>
+      <workItem from="1729346004444" duration="642000" />
+      <workItem from="1729349058369" duration="4257000" />
+      <workItem from="1730011838203" duration="6113000" />
+      <workItem from="1730216644214" duration="6718000" />
+      <workItem from="1730258045007" duration="4207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

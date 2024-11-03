@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 16d526f5580a48049b24eb074df685c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2538719787857217292
+    second: kyby_paotai3_tex_0
+  - first:
+      213: 3678119537216983224
+    second: kyby_paotai3_tex_1
+  - first:
+      213: 3857206318113467802
+    second: kyby_paotai3_tex_2
+  - first:
+      213: -2996597050168403804
+    second: kyby_paotai3_tex_3
+  - first:
+      213: 1059169103938999549
+    second: kyby_paotai3_tex_4
+  - first:
+      213: 3662447971692830957
+    second: kyby_paotai3_tex_5
+  - first:
+      213: 4444522237693170606
+    second: kyby_paotai3_tex_6
+  - first:
+      213: 5492571759095586161
+    second: kyby_paotai3_tex_7
+  - first:
+      213: 7598938334123179420
+    second: kyby_paotai3_tex_8
+  - first:
+      213: -5803434954503685881
+    second: kyby_paotai3_tex_9
+  - first:
+      213: -584192633570798803
+    second: kyby_paotai3_tex_10
+  - first:
+      213: -7435961447580844208
+    second: kyby_paotai3_tex_11
+  - first:
+      213: -7381556708256691504
+    second: kyby_paotai3_tex_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 257
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c070c7342385b3320800000000000000
+      internalID: 2538719787857217292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 42
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b01e394b3e4b0330800000000000000
+      internalID: 3678119537216983224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 56
+        width: 40
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dab80c5bc878530800000000000000
+      internalID: 3857206318113467802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 74
+        width: 181
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a89ab90cd2f966d0800000000000000
+      internalID: -2996597050168403804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 91
+        width: 49
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df45a5530bce2be00800000000000000
+      internalID: 1059169103938999549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 91
+        width: 49
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0e9199601a3d230800000000000000
+      internalID: 3662447971692830957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 63
+        width: 98
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea396065d6d1ead30800000000000000
+      internalID: 4444522237693170606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 145
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d1c3cf9e8893c40800000000000000
+      internalID: 5492571759095586161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 145
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9db28b672ad47960800000000000000
+      internalID: 7598938334123179420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 100
+        width: 80
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709f8b328ae067fa0800000000000000
+      internalID: -5803434954503685881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23dc9b15e784e7f0800000000000000
+      internalID: -584192633570798803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 10
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fb179f5782ec890800000000000000
+      internalID: -7435961447580844208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_paotai3_tex_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 19
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da45f278417f8990800000000000000
+      internalID: -7381556708256691504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kyby_paotai3_tex_0: 2538719787857217292
+      kyby_paotai3_tex_1: 3678119537216983224
+      kyby_paotai3_tex_10: -584192633570798803
+      kyby_paotai3_tex_11: -7435961447580844208
+      kyby_paotai3_tex_12: -7381556708256691504
+      kyby_paotai3_tex_2: 3857206318113467802
+      kyby_paotai3_tex_3: -2996597050168403804
+      kyby_paotai3_tex_4: 1059169103938999549
+      kyby_paotai3_tex_5: 3662447971692830957
+      kyby_paotai3_tex_6: 4444522237693170606
+      kyby_paotai3_tex_7: 5492571759095586161
+      kyby_paotai3_tex_8: 7598938334123179420
+      kyby_paotai3_tex_9: -5803434954503685881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

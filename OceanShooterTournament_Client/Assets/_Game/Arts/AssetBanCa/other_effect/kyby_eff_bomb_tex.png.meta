@@ -1,0 +1,1127 @@
+fileFormatVersion: 2
+guid: bb16ce2872110364b98c42e77a4f2416
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4308400433470208755
+    second: kyby_eff_bomb_tex_0
+  - first:
+      213: 7415324332683661307
+    second: kyby_eff_bomb_tex_1
+  - first:
+      213: -5081494259296756891
+    second: kyby_eff_bomb_tex_2
+  - first:
+      213: 8925141959670091164
+    second: kyby_eff_bomb_tex_3
+  - first:
+      213: -69275088077282871
+    second: kyby_eff_bomb_tex_4
+  - first:
+      213: -8289136361456255987
+    second: kyby_eff_bomb_tex_5
+  - first:
+      213: 8345468437888119494
+    second: kyby_eff_bomb_tex_6
+  - first:
+      213: -6531065401409910755
+    second: kyby_eff_bomb_tex_7
+  - first:
+      213: -7795648787094495449
+    second: kyby_eff_bomb_tex_8
+  - first:
+      213: -250044675217103687
+    second: kyby_eff_bomb_tex_9
+  - first:
+      213: -5255617104497727818
+    second: kyby_eff_bomb_tex_10
+  - first:
+      213: 8552334488654945336
+    second: kyby_eff_bomb_tex_11
+  - first:
+      213: -3521008592143422056
+    second: kyby_eff_bomb_tex_12
+  - first:
+      213: 4479907300647233754
+    second: kyby_eff_bomb_tex_13
+  - first:
+      213: -2922058047597719176
+    second: kyby_eff_bomb_tex_14
+  - first:
+      213: 4812154030207713631
+    second: kyby_eff_bomb_tex_15
+  - first:
+      213: -512891922778420557
+    second: kyby_eff_bomb_tex_16
+  - first:
+      213: 6083991297926095917
+    second: kyby_eff_bomb_tex_17
+  - first:
+      213: 8193307461060789373
+    second: kyby_eff_bomb_tex_18
+  - first:
+      213: 7721625669267086183
+    second: kyby_eff_bomb_tex_19
+  - first:
+      213: -1542628187677519379
+    second: kyby_eff_bomb_tex_20
+  - first:
+      213: 3454855412210633866
+    second: kyby_eff_bomb_tex_21
+  - first:
+      213: 7901645198376517752
+    second: kyby_eff_bomb_tex_22
+  - first:
+      213: -1639359845991435903
+    second: kyby_eff_bomb_tex_23
+  - first:
+      213: 3418600981227226846
+    second: kyby_eff_bomb_tex_24
+  - first:
+      213: 5419156914241910798
+    second: kyby_eff_bomb_tex_25
+  - first:
+      213: 2875302127274548633
+    second: kyby_eff_bomb_tex_26
+  - first:
+      213: 4301506627443140056
+    second: kyby_eff_bomb_tex_27
+  - first:
+      213: 5672701783147065780
+    second: kyby_eff_bomb_tex_28
+  - first:
+      213: -8250957431618305479
+    second: kyby_eff_bomb_tex_29
+  - first:
+      213: -6213802203022667269
+    second: kyby_eff_bomb_tex_30
+  - first:
+      213: 1160925566454738381
+    second: kyby_eff_bomb_tex_31
+  - first:
+      213: -1399686082773862184
+    second: kyby_eff_bomb_tex_32
+  - first:
+      213: 974670874014225352
+    second: kyby_eff_bomb_tex_33
+  - first:
+      213: 952522684088502029
+    second: kyby_eff_bomb_tex_34
+  - first:
+      213: 175651007187677397
+    second: kyby_eff_bomb_tex_35
+  - first:
+      213: -8439678211681848700
+    second: kyby_eff_bomb_tex_36
+  - first:
+      213: -8677681989887888472
+    second: kyby_eff_bomb_tex_37
+  - first:
+      213: -7884678672533691581
+    second: kyby_eff_bomb_tex_38
+  - first:
+      213: -2069094055114582692
+    second: kyby_eff_bomb_tex_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1410
+        width: 647
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa712b0e538acb30800000000000000
+      internalID: 4308400433470208755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_1
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1649
+        width: 390
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff8be7413688e660800000000000000
+      internalID: 7415324332683661307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_2
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1656
+        width: 373
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b1e62e4e7ea79b0800000000000000
+      internalID: -5081494259296756891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_3
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1676
+        width: 390
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dc11c23597cdb70800000000000000
+      internalID: 8925141959670091164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_4
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1883
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ae57aca2e90ff0800000000000000
+      internalID: -69275088077282871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1507
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c30a0a56217fc80800000000000000
+      internalID: -8289136361456255987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1564
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c23e8cf35f01d370800000000000000
+      internalID: 8345468437888119494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_7
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1567
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d184e18de9efc55a0800000000000000
+      internalID: -6531065401409910755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_8
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1538
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f17833bba40d390800000000000000
+      internalID: -7795648787094495449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_9
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1566
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4e4b351b9a78cf0800000000000000
+      internalID: -250044675217103687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_10
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1252
+        width: 365
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b622f2c61c4017b0800000000000000
+      internalID: -5255617104497727818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_11
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1275
+        width: 378
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c999cb7eeffa670800000000000000
+      internalID: 8552334488654945336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_12
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1479
+        width: 169
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d613e275dd22fc0800000000000000
+      internalID: -3521008592143422056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_13
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1547
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8e1c154f3db2e30800000000000000
+      internalID: 4479907300647233754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_14
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1493
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871dddbffa3c277d0800000000000000
+      internalID: -2922058047597719176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1505
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51cef6389438c240800000000000000
+      internalID: 4812154030207713631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_16
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1474
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba00ae7387d1e8f0800000000000000
+      internalID: -512891922778420557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1492
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24e371e9ddae6450800000000000000
+      internalID: 6083991297926095917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_18
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1472
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d740610d9b974b170800000000000000
+      internalID: 8193307461060789373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bd331a2a9b82b60800000000000000
+      internalID: 7721625669267086183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1452
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de11af426db779ae0800000000000000
+      internalID: -1542628187677519379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_21
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1304
+        width: 151
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c862b51bc12ff20800000000000000
+      internalID: 3454855412210633866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_22
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1385
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8704766717848ad60800000000000000
+      internalID: 7901645198376517752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_23
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1416
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18134a0e7e2df39e0800000000000000
+      internalID: -1639359845991435903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1065
+        width: 314
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6c9dada7f417f20800000000000000
+      internalID: 3418600981227226846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1085
+        width: 293
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08bd776086b43b40800000000000000
+      internalID: 5419156914241910798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_26
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1266
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ddf1efc0027e720800000000000000
+      internalID: 2875302127274548633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1285
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5acbfbc7502bb30800000000000000
+      internalID: 4301506627443140056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1241
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1b43d673c79be40800000000000000
+      internalID: 5672701783147065780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_29
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1284
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932858f6ee5be7d80800000000000000
+      internalID: -8250957431618305479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_30
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1285
+        width: 105
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf15b4881d324c9a0800000000000000
+      internalID: -6213802203022667269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd243fd6af6c1010800000000000000
+      internalID: 1160925566454738381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 843
+        width: 211
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b43f6ce0539ce0800000000000000
+      internalID: -1399686082773862184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_33
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 945
+        width: 250
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39982fef9b68d00800000000000000
+      internalID: 974670874014225352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_34
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 879
+        width: 333
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07c891a55a083d00800000000000000
+      internalID: 952522684088502029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_35
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 895
+        width: 354
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d07cdf09a9007200800000000000000
+      internalID: 175651007187677397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_36
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1060
+        width: 187
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482791eb16d30ea80800000000000000
+      internalID: -8439678211681848700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_37
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1058
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a37deed43ea29780800000000000000
+      internalID: -8677681989887888472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_38
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 879
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e78ba58ef39290800000000000000
+      internalID: -7884678672533691581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_bomb_tex_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 842
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55d50e5be91943e0800000000000000
+      internalID: -2069094055114582692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kyby_eff_bomb_tex_0: 4308400433470208755
+      kyby_eff_bomb_tex_1: 7415324332683661307
+      kyby_eff_bomb_tex_10: -5255617104497727818
+      kyby_eff_bomb_tex_11: 8552334488654945336
+      kyby_eff_bomb_tex_12: -3521008592143422056
+      kyby_eff_bomb_tex_13: 4479907300647233754
+      kyby_eff_bomb_tex_14: -2922058047597719176
+      kyby_eff_bomb_tex_15: 4812154030207713631
+      kyby_eff_bomb_tex_16: -512891922778420557
+      kyby_eff_bomb_tex_17: 6083991297926095917
+      kyby_eff_bomb_tex_18: 8193307461060789373
+      kyby_eff_bomb_tex_19: 7721625669267086183
+      kyby_eff_bomb_tex_2: -5081494259296756891
+      kyby_eff_bomb_tex_20: -1542628187677519379
+      kyby_eff_bomb_tex_21: 3454855412210633866
+      kyby_eff_bomb_tex_22: 7901645198376517752
+      kyby_eff_bomb_tex_23: -1639359845991435903
+      kyby_eff_bomb_tex_24: 3418600981227226846
+      kyby_eff_bomb_tex_25: 5419156914241910798
+      kyby_eff_bomb_tex_26: 2875302127274548633
+      kyby_eff_bomb_tex_27: 4301506627443140056
+      kyby_eff_bomb_tex_28: 5672701783147065780
+      kyby_eff_bomb_tex_29: -8250957431618305479
+      kyby_eff_bomb_tex_3: 8925141959670091164
+      kyby_eff_bomb_tex_30: -6213802203022667269
+      kyby_eff_bomb_tex_31: 1160925566454738381
+      kyby_eff_bomb_tex_32: -1399686082773862184
+      kyby_eff_bomb_tex_33: 974670874014225352
+      kyby_eff_bomb_tex_34: 952522684088502029
+      kyby_eff_bomb_tex_35: 175651007187677397
+      kyby_eff_bomb_tex_36: -8439678211681848700
+      kyby_eff_bomb_tex_37: -8677681989887888472
+      kyby_eff_bomb_tex_38: -7884678672533691581
+      kyby_eff_bomb_tex_39: -2069094055114582692
+      kyby_eff_bomb_tex_4: -69275088077282871
+      kyby_eff_bomb_tex_5: -8289136361456255987
+      kyby_eff_bomb_tex_6: 8345468437888119494
+      kyby_eff_bomb_tex_7: -6531065401409910755
+      kyby_eff_bomb_tex_8: -7795648787094495449
+      kyby_eff_bomb_tex_9: -250044675217103687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

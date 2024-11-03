@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: kyby_jinbi_Data
+  m_EditorClassIdentifier: 
+  dataName: kyby_jinbi
+  dragonBonesJSON: {fileID: 4900000, guid: 1020b4f281b746643b9ed22440568a0a, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 63a244dd706e9ab49b691c334a5d6f6b, type: 3}
+    texture: {fileID: 2800000, guid: 3ba82aa29d8455746aa16d73ee7edfdc, type: 3}
+    material: {fileID: 2100000, guid: c4dea044985636542934cac1f88b63ca, type: 2}
+    uiMaterial: {fileID: 0}

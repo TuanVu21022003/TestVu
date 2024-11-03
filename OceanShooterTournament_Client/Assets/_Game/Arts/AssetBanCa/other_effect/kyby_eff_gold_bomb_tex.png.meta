@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: fe0ae2232f3e44e4ab30800177ed51cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4174512622617871381
+    second: kyby_eff_gold_bomb_tex_0
+  - first:
+      213: 6407174543976098154
+    second: kyby_eff_gold_bomb_tex_1
+  - first:
+      213: -7368332129277619471
+    second: kyby_eff_gold_bomb_tex_2
+  - first:
+      213: -9213799029465526365
+    second: kyby_eff_gold_bomb_tex_3
+  - first:
+      213: -970480901853142118
+    second: kyby_eff_gold_bomb_tex_4
+  - first:
+      213: -1383656613846274118
+    second: kyby_eff_gold_bomb_tex_5
+  - first:
+      213: 8294577541025199181
+    second: kyby_eff_gold_bomb_tex_6
+  - first:
+      213: 7719879287218255990
+    second: kyby_eff_gold_bomb_tex_7
+  - first:
+      213: 7370757589864329979
+    second: kyby_eff_gold_bomb_tex_8
+  - first:
+      213: 4046520202830540058
+    second: kyby_eff_gold_bomb_tex_9
+  - first:
+      213: 7966666911575780007
+    second: kyby_eff_gold_bomb_tex_10
+  - first:
+      213: -2169842338745889904
+    second: kyby_eff_gold_bomb_tex_11
+  - first:
+      213: 8404317638816923978
+    second: kyby_eff_gold_bomb_tex_12
+  - first:
+      213: 7456989901878030907
+    second: kyby_eff_gold_bomb_tex_13
+  - first:
+      213: -7027314485941982643
+    second: kyby_eff_gold_bomb_tex_14
+  - first:
+      213: -4003312020485296370
+    second: kyby_eff_gold_bomb_tex_15
+  - first:
+      213: 5372401401145141983
+    second: kyby_eff_gold_bomb_tex_16
+  - first:
+      213: 5567244393095266402
+    second: kyby_eff_gold_bomb_tex_17
+  - first:
+      213: 7439062120283952055
+    second: kyby_eff_gold_bomb_tex_18
+  - first:
+      213: -5859239354511146432
+    second: kyby_eff_gold_bomb_tex_19
+  - first:
+      213: -1123162747241098129
+    second: kyby_eff_gold_bomb_tex_20
+  - first:
+      213: -4466452840262891577
+    second: kyby_eff_gold_bomb_tex_21
+  - first:
+      213: 4396056906762387767
+    second: kyby_eff_gold_bomb_tex_22
+  - first:
+      213: 7876159751346198378
+    second: kyby_eff_gold_bomb_tex_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 461
+        width: 559
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb3a7223e62116c0800000000000000
+      internalID: -4174512622617871381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 657
+        width: 138
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69ee931d4bdae850800000000000000
+      internalID: 6407174543976098154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 994
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f25f4fa7fc6eb990800000000000000
+      internalID: -7368332129277619471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 917
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af4ed87992022080800000000000000
+      internalID: -9213799029465526365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 923
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932eb7f2c82882f0800000000000000
+      internalID: -970480901853142118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 964
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfa29004a34ccce0800000000000000
+      internalID: -1383656613846274118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 887
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d447db6b3524c1370800000000000000
+      internalID: 8294577541025199181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_7
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 906
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6783a8f5f45822b60800000000000000
+      internalID: 7719879287218255990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_8
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 905
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2b06dd9f03a4660800000000000000
+      internalID: 7370757589864329979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_9
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 840
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1de7226fa0282830800000000000000
+      internalID: 4046520202830540058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_10
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 896
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa255cc8594f8e60800000000000000
+      internalID: 7966666911575780007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 868
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc274a3eb23e1e0800000000000000
+      internalID: -2169842338745889904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 820
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418b315d5222a470800000000000000
+      internalID: 8404317638816923978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_13
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 856
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b327d139ecc8c7760800000000000000
+      internalID: 7456989901878030907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_14
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 801
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aa87415b6f97e90800000000000000
+      internalID: -7027314485941982643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_15
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 803
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f2ce58de06178c0800000000000000
+      internalID: -4003312020485296370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_16
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 804
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda21123c9a9e8a40800000000000000
+      internalID: 5372401401145141983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_17
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 677
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2608a3c6743d24d40800000000000000
+      internalID: 5567244393095266402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 678
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d695a59bdc3760800000000000000
+      internalID: 7439062120283952055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 510
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042cf54c9dccfaea0800000000000000
+      internalID: -5859239354511146432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 347
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f641eb1ae69b960f0800000000000000
+      internalID: -1123162747241098129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 333
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7881a5ec8f302c0800000000000000
+      internalID: -4466452840262891577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 333
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73189f3277ee10d30800000000000000
+      internalID: 4396056906762387767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_eff_gold_bomb_tex_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 204
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67183d609dbd4d60800000000000000
+      internalID: 7876159751346198378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kyby_eff_gold_bomb_tex_0: -4174512622617871381
+      kyby_eff_gold_bomb_tex_1: 6407174543976098154
+      kyby_eff_gold_bomb_tex_10: 7966666911575780007
+      kyby_eff_gold_bomb_tex_11: -2169842338745889904
+      kyby_eff_gold_bomb_tex_12: 8404317638816923978
+      kyby_eff_gold_bomb_tex_13: 7456989901878030907
+      kyby_eff_gold_bomb_tex_14: -7027314485941982643
+      kyby_eff_gold_bomb_tex_15: -4003312020485296370
+      kyby_eff_gold_bomb_tex_16: 5372401401145141983
+      kyby_eff_gold_bomb_tex_17: 5567244393095266402
+      kyby_eff_gold_bomb_tex_18: 7439062120283952055
+      kyby_eff_gold_bomb_tex_19: -5859239354511146432
+      kyby_eff_gold_bomb_tex_2: -7368332129277619471
+      kyby_eff_gold_bomb_tex_20: -1123162747241098129
+      kyby_eff_gold_bomb_tex_21: -4466452840262891577
+      kyby_eff_gold_bomb_tex_22: 4396056906762387767
+      kyby_eff_gold_bomb_tex_23: 7876159751346198378
+      kyby_eff_gold_bomb_tex_3: -9213799029465526365
+      kyby_eff_gold_bomb_tex_4: -970480901853142118
+      kyby_eff_gold_bomb_tex_5: -1383656613846274118
+      kyby_eff_gold_bomb_tex_6: 8294577541025199181
+      kyby_eff_gold_bomb_tex_7: 7719879287218255990
+      kyby_eff_gold_bomb_tex_8: 7370757589864329979
+      kyby_eff_gold_bomb_tex_9: 4046520202830540058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

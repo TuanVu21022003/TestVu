@@ -1,0 +1,167 @@
+{
+    "frameRate": 24,
+    "name": "tuobaoguiwang",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "tuobaoguiwang",
+            "aabb": {
+                "x": -640,
+                "y": -360,
+                "width": 1280,
+                "height": 720
+            },
+            "bone": [
+                {
+                    "name": "root"
+                }
+                
+            ],
+            "slot": [
+                {
+                    "displayIndex": 15,
+                    "name": "gui_00000",
+                    "parent": "root"
+                }
+                
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        
+                        {
+                            "name": "gui_00000",
+                            "display": [
+                                {
+                                    "name": "gui_00015"
+                                },
+                                {
+                                    "name": "gui_00014"
+                                },
+                                {
+                                    "name": "gui_00013"
+                                },
+                                {
+                                    "name": "gui_00012"
+                                },
+                                {
+                                    "name": "gui_00011"
+                                },
+                                {
+                                    "name": "gui_00010"
+                                },
+                                {
+                                    "name": "gui_00009"
+                                },
+                                {
+                                    "name": "gui_00008"
+                                },
+                                {
+                                    "name": "gui_00007"
+                                },
+                                {
+                                    "name": "gui_00006"
+                                },
+                                {
+                                    "name": "gui_00005"
+                                },
+                                {
+                                    "name": "gui_00004"
+                                },
+                                {
+                                    "name": "gui_00003"
+                                },
+                                {
+                                    "name": "gui_00002"
+                                },
+                                {
+                                    "name": "gui_00001"
+                                },
+                                {
+                                    "name": "gui_00000"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 15,
+                    "playTimes": 0,
+                    "name": "newAnimation",
+                    "bone": [
+                    ],
+                    "slot": [
+                        {
+                            "name": "gui_00000",
+                            "displayFrame": [
+                                {
+                                    "value": 15
+                                },
+                                {
+                                    "value": 14
+                                },
+                                {
+                                    "value": 13
+                                },
+                                {
+                                    "value": 12
+                                },
+                                {
+                                    "value": 11
+                                },
+                                {
+                                    "value": 10
+                                },
+                                {
+                                    "value": 9
+                                },
+                                {
+                                    "value": 8
+                                },
+                                {
+                                    "value": 7
+                                },
+                                {
+                                    "value": 6
+                                },
+                                {
+                                    "value": 5
+                                },
+                                {
+                                    "value": 4
+                                },
+                                {
+                                    "value": 3
+                                },
+                                {
+                                    "value": 2
+                                },
+                                {
+                                    "value": 1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "newAnimation"
+                }
+            ],
+            "canvas": {
+                "width": 1280,
+                "height": 720
+            }
+        }
+    ]
+}

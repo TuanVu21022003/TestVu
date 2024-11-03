@@ -1,0 +1,193 @@
+{
+    "fishsData": [
+        {
+            "name": "ankangyu",
+            "hp": 5.0,
+            "coin": 5.0,
+            "widthFish": 1.0,
+            "heightFish": 0.5
+        },
+        {
+            "name": "baolongwang",
+            "hp": 10.0,
+            "coin": 10.0,
+            "widthFish": 3.0,
+            "heightFish": 0.5
+        },
+        {
+            "name": "baoxiang",
+            "hp": 12.0,
+            "coin": 12.0,
+            "widthFish": 1.0,
+            "heightFish": 1.0
+        },
+        {
+            "name": "denglongyu",
+            "hp": 4.0,
+            "coin": 4.0,
+            "widthFish": 0.5,
+            "heightFish": 0.5
+        },
+        {
+            "name": "douxia",
+            "hp": 3.0,
+            "coin": 3.0,
+            "widthFish": 0.5,
+            "heightFish": 0.25
+        },
+        {
+            "name": "duobaoyu",
+            "hp": 1.0,
+            "coin": 1.0,
+            "widthFish": 0.5,
+            "heightFish": 0.25
+        },
+        {
+            "name": "haidaochuan",
+            "hp": 15.0,
+            "coin": 15.0,
+            "widthFish": 1.25,
+            "heightFish": 1.0
+        },
+        {
+            "name": "haigui",
+            "hp": 6.0,
+            "coin": 6.0,
+            "widthFish": 0.8,
+            "heightFish": 0.3
+        },
+        {
+            "name": "haitun",
+            "hp": 7.0,
+            "coin": 7.0,
+            "widthFish": 1.0,
+            "heightFish": 0.5
+        },
+        {
+            "name": "hbby_shuimu",
+            "hp": 6.0,
+            "coin": 6.0,
+            "widthFish": 0.25,
+            "heightFish": 0.5
+        },
+        {
+            "name": "hetun",
+            "hp": 2.0,
+            "coin": 2.0,
+            "widthFish": 0.25,
+            "heightFish": 0.25
+        },
+        {
+            "name": "hongshanyu",
+            "hp": 1.0,
+            "coin": 1.0,
+            "widthFish": 0.5,
+            "heightFish": 0.25
+        },
+        {
+            "name": "huangjinchuitousha",
+            "hp": 9.0,
+            "coin": 9.0,
+            "widthFish": 1.1,
+            "heightFish": 0.5
+        },
+        {
+            "name": "hudieyu",
+            "hp": 2.0,
+            "coin": 2.0,
+            "widthFish": 0.5,
+            "heightFish": 0.25
+        },
+        {
+            "name": "jiewenyu",
+            "hp": 3.0,
+            "coin": 3.0,
+            "widthFish": 1.0,
+            "heightFish": 0.5
+        },
+        {
+            "name": "jinjiahusha",
+            "hp": 8.0,
+            "coin": 8.0,
+            "widthFish": 1.0,
+            "heightFish": 0.7
+        },
+        {
+            "name": "jinlongwang",
+            "hp": 10.0,
+            "coin": 10.0,
+            "widthFish": 3.0,
+            "heightFish": 0.5
+        },
+        {
+            "name": "jinlongyu",
+            "hp": 8.0,
+            "coin": 8.0,
+            "widthFish": 1.0,
+            "heightFish": 0.25
+        },
+        {
+            "name": "longliyu",
+            "hp": 7.0,
+            "coin": 7.0,
+            "widthFish": 1.5,
+            "heightFish": 0.25
+        },
+        {
+            "name": "meirenyu",
+            "hp": 11.0,
+            "coin": 11.0,
+            "widthFish": 1.5,
+            "heightFish": 0.5
+        },
+        {
+            "name": "meirenyu2",
+            "hp": 11.0,
+            "coin": 11.0,
+            "widthFish": 1.5,
+            "heightFish": 0.5
+        },
+        {
+            "name": "shenhaifufenwang",
+            "hp": 8.0,
+            "coin": 8.0,
+            "widthFish": 1.1,
+            "heightFish": 0.25
+        },
+        {
+            "name": "shiziyu",
+            "hp": 1.0,
+            "coin": 1.0,
+            "widthFish": 0.4,
+            "heightFish": 0.25
+        },
+        {
+            "name": "tuobaoguiwang",
+            "hp": 10.0,
+            "coin": 10.0,
+            "widthFish": 1.0,
+            "heightFish": 0.3
+        },
+        {
+            "name": "xiaochouyu",
+            "hp": 7.0,
+            "coin": 7.0,
+            "widthFish": 0.5,
+            "heightFish": 0.7
+        },
+        {
+            "name": "zhangyu",
+            "hp": 7.0,
+            "coin": 7.0,
+            "widthFish": 0.5,
+            "heightFish": 0.5
+        },
+        {
+            "name": "zhangyuwang",
+            "hp": 14.0,
+            "coin": 14.0,
+            "widthFish": 1.0,
+            "heightFish": 1.25
+        }
+    ]
+}

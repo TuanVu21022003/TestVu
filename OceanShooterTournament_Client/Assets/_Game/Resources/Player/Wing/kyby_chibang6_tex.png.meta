@@ -1,0 +1,5352 @@
+fileFormatVersion: 2
+guid: 8eed786ecb04b814daf5465c42931f34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9145607646720655668
+    second: kyby_chibang6_tex_0
+  - first:
+      213: 4243510759292566353
+    second: kyby_chibang6_tex_1
+  - first:
+      213: 6278558002489777467
+    second: kyby_chibang6_tex_2
+  - first:
+      213: 3532196219118249897
+    second: kyby_chibang6_tex_3
+  - first:
+      213: 6317899166671261714
+    second: kyby_chibang6_tex_4
+  - first:
+      213: -9015792346172882215
+    second: kyby_chibang6_tex_5
+  - first:
+      213: -5187983651251646618
+    second: kyby_chibang6_tex_6
+  - first:
+      213: 7391505468931587184
+    second: kyby_chibang6_tex_7
+  - first:
+      213: 800820799785908746
+    second: kyby_chibang6_tex_8
+  - first:
+      213: 942128841324423768
+    second: kyby_chibang6_tex_9
+  - first:
+      213: -7796487538064049556
+    second: kyby_chibang6_tex_10
+  - first:
+      213: 1024814020356864847
+    second: kyby_chibang6_tex_11
+  - first:
+      213: 8872724109838966602
+    second: kyby_chibang6_tex_12
+  - first:
+      213: -7677809605086199527
+    second: kyby_chibang6_tex_13
+  - first:
+      213: -565216049889422828
+    second: kyby_chibang6_tex_14
+  - first:
+      213: -4679277844131927307
+    second: kyby_chibang6_tex_15
+  - first:
+      213: -6387797501948480990
+    second: kyby_chibang6_tex_16
+  - first:
+      213: -3323982620735468639
+    second: kyby_chibang6_tex_17
+  - first:
+      213: -3528507401828464894
+    second: kyby_chibang6_tex_18
+  - first:
+      213: 6525532503611140824
+    second: kyby_chibang6_tex_19
+  - first:
+      213: -591413723505729078
+    second: kyby_chibang6_tex_20
+  - first:
+      213: 2560523605507963027
+    second: kyby_chibang6_tex_21
+  - first:
+      213: 5712656382057260922
+    second: kyby_chibang6_tex_22
+  - first:
+      213: 6898275074365489450
+    second: kyby_chibang6_tex_23
+  - first:
+      213: 3869378423088300651
+    second: kyby_chibang6_tex_24
+  - first:
+      213: -3020466228869270955
+    second: kyby_chibang6_tex_25
+  - first:
+      213: 3112595875241548691
+    second: kyby_chibang6_tex_26
+  - first:
+      213: 4685594311519844709
+    second: kyby_chibang6_tex_27
+  - first:
+      213: 1279754879401836781
+    second: kyby_chibang6_tex_28
+  - first:
+      213: -7243135941122560126
+    second: kyby_chibang6_tex_29
+  - first:
+      213: -6138220296515917260
+    second: kyby_chibang6_tex_30
+  - first:
+      213: -1786572098125880824
+    second: kyby_chibang6_tex_31
+  - first:
+      213: 210687713893295813
+    second: kyby_chibang6_tex_32
+  - first:
+      213: 1980287250904336246
+    second: kyby_chibang6_tex_33
+  - first:
+      213: -5880279475736927369
+    second: kyby_chibang6_tex_34
+  - first:
+      213: 6187566609518461470
+    second: kyby_chibang6_tex_35
+  - first:
+      213: -8980687881824946075
+    second: kyby_chibang6_tex_36
+  - first:
+      213: 7145823391040334761
+    second: kyby_chibang6_tex_37
+  - first:
+      213: -3029088418581234956
+    second: kyby_chibang6_tex_38
+  - first:
+      213: -4497877909057759216
+    second: kyby_chibang6_tex_39
+  - first:
+      213: 7312040709841413624
+    second: kyby_chibang6_tex_40
+  - first:
+      213: 7217785496516230564
+    second: kyby_chibang6_tex_41
+  - first:
+      213: 1483106709750533382
+    second: kyby_chibang6_tex_42
+  - first:
+      213: -6859449165039230297
+    second: kyby_chibang6_tex_43
+  - first:
+      213: -2322914258825310591
+    second: kyby_chibang6_tex_44
+  - first:
+      213: -5291724870850809779
+    second: kyby_chibang6_tex_45
+  - first:
+      213: 8347951854304448974
+    second: kyby_chibang6_tex_46
+  - first:
+      213: 4604943559111432144
+    second: kyby_chibang6_tex_47
+  - first:
+      213: -6939502467182617819
+    second: kyby_chibang6_tex_48
+  - first:
+      213: 6768774603940869630
+    second: kyby_chibang6_tex_49
+  - first:
+      213: 4835472575806597280
+    second: kyby_chibang6_tex_50
+  - first:
+      213: 8651680433309502742
+    second: kyby_chibang6_tex_51
+  - first:
+      213: 7040017037227922096
+    second: kyby_chibang6_tex_52
+  - first:
+      213: -3340484373206814735
+    second: kyby_chibang6_tex_53
+  - first:
+      213: -8064676880808087305
+    second: kyby_chibang6_tex_54
+  - first:
+      213: 3154381728860605749
+    second: kyby_chibang6_tex_55
+  - first:
+      213: -9076564060211834619
+    second: kyby_chibang6_tex_56
+  - first:
+      213: 5388791413599391482
+    second: kyby_chibang6_tex_57
+  - first:
+      213: -8923899182202005858
+    second: kyby_chibang6_tex_58
+  - first:
+      213: -3407531336923241771
+    second: kyby_chibang6_tex_59
+  - first:
+      213: 3220675870377492026
+    second: kyby_chibang6_tex_60
+  - first:
+      213: 1617717473498140804
+    second: kyby_chibang6_tex_61
+  - first:
+      213: -1082350684335396590
+    second: kyby_chibang6_tex_62
+  - first:
+      213: 8863947473126657348
+    second: kyby_chibang6_tex_63
+  - first:
+      213: -2274430876847085654
+    second: kyby_chibang6_tex_64
+  - first:
+      213: 8160100370233392701
+    second: kyby_chibang6_tex_65
+  - first:
+      213: -2528732153113940550
+    second: kyby_chibang6_tex_66
+  - first:
+      213: 288841890898719812
+    second: kyby_chibang6_tex_67
+  - first:
+      213: -3696177142673257593
+    second: kyby_chibang6_tex_68
+  - first:
+      213: -5792754631790883533
+    second: kyby_chibang6_tex_69
+  - first:
+      213: 6126393513003801866
+    second: kyby_chibang6_tex_70
+  - first:
+      213: 6190732740537330002
+    second: kyby_chibang6_tex_71
+  - first:
+      213: 6291484654014322918
+    second: kyby_chibang6_tex_72
+  - first:
+      213: -7886278703627461371
+    second: kyby_chibang6_tex_73
+  - first:
+      213: -2590471364871692258
+    second: kyby_chibang6_tex_74
+  - first:
+      213: -868621301976487744
+    second: kyby_chibang6_tex_75
+  - first:
+      213: -4548359390413969286
+    second: kyby_chibang6_tex_76
+  - first:
+      213: -8940845574097549015
+    second: kyby_chibang6_tex_77
+  - first:
+      213: -3501104836472407215
+    second: kyby_chibang6_tex_78
+  - first:
+      213: 2293885822430095637
+    second: kyby_chibang6_tex_79
+  - first:
+      213: -1737896748531442997
+    second: kyby_chibang6_tex_80
+  - first:
+      213: -3033519184074945975
+    second: kyby_chibang6_tex_81
+  - first:
+      213: -8610273841242713488
+    second: kyby_chibang6_tex_82
+  - first:
+      213: -3448662933647928174
+    second: kyby_chibang6_tex_83
+  - first:
+      213: -4085277373331393415
+    second: kyby_chibang6_tex_84
+  - first:
+      213: 4097623910821452686
+    second: kyby_chibang6_tex_85
+  - first:
+      213: 1880141895435324793
+    second: kyby_chibang6_tex_86
+  - first:
+      213: -9160869731718725289
+    second: kyby_chibang6_tex_87
+  - first:
+      213: -2083409959670929704
+    second: kyby_chibang6_tex_88
+  - first:
+      213: -4501738495830993853
+    second: kyby_chibang6_tex_89
+  - first:
+      213: -6314946249273788312
+    second: kyby_chibang6_tex_90
+  - first:
+      213: -8815926089274441832
+    second: kyby_chibang6_tex_91
+  - first:
+      213: -6233279817086907777
+    second: kyby_chibang6_tex_92
+  - first:
+      213: 2579775242415945910
+    second: kyby_chibang6_tex_93
+  - first:
+      213: 8341050668055737107
+    second: kyby_chibang6_tex_94
+  - first:
+      213: 6099416479243688708
+    second: kyby_chibang6_tex_95
+  - first:
+      213: -5702976695253995785
+    second: kyby_chibang6_tex_96
+  - first:
+      213: -3770026350247486302
+    second: kyby_chibang6_tex_97
+  - first:
+      213: -4569389166295075088
+    second: kyby_chibang6_tex_98
+  - first:
+      213: 6640067794438749321
+    second: kyby_chibang6_tex_99
+  - first:
+      213: 7451406648060575152
+    second: kyby_chibang6_tex_100
+  - first:
+      213: 3555710179181754055
+    second: kyby_chibang6_tex_101
+  - first:
+      213: 8099291175218671876
+    second: kyby_chibang6_tex_102
+  - first:
+      213: 2159789990656844172
+    second: kyby_chibang6_tex_103
+  - first:
+      213: 5712215292424657446
+    second: kyby_chibang6_tex_104
+  - first:
+      213: -1320692539982952555
+    second: kyby_chibang6_tex_105
+  - first:
+      213: -7089414539760215222
+    second: kyby_chibang6_tex_106
+  - first:
+      213: 4498644150524243293
+    second: kyby_chibang6_tex_107
+  - first:
+      213: -3011250044010916274
+    second: kyby_chibang6_tex_108
+  - first:
+      213: 3485966801621637333
+    second: kyby_chibang6_tex_109
+  - first:
+      213: 122989021904438228
+    second: kyby_chibang6_tex_110
+  - first:
+      213: -7205053954309040056
+    second: kyby_chibang6_tex_111
+  - first:
+      213: 4627421993375839841
+    second: kyby_chibang6_tex_112
+  - first:
+      213: -69660953337884796
+    second: kyby_chibang6_tex_113
+  - first:
+      213: 3182880821486316637
+    second: kyby_chibang6_tex_114
+  - first:
+      213: -8786748159061399990
+    second: kyby_chibang6_tex_115
+  - first:
+      213: 6329464246811239993
+    second: kyby_chibang6_tex_116
+  - first:
+      213: -9109760952969920928
+    second: kyby_chibang6_tex_117
+  - first:
+      213: -3335084701845071994
+    second: kyby_chibang6_tex_118
+  - first:
+      213: -1916179786190632731
+    second: kyby_chibang6_tex_119
+  - first:
+      213: -7238073528765169990
+    second: kyby_chibang6_tex_120
+  - first:
+      213: -6449992842257376633
+    second: kyby_chibang6_tex_121
+  - first:
+      213: 4739037535697299554
+    second: kyby_chibang6_tex_122
+  - first:
+      213: -1591252745245645040
+    second: kyby_chibang6_tex_123
+  - first:
+      213: -6567329519549251368
+    second: kyby_chibang6_tex_124
+  - first:
+      213: -4520774927849227252
+    second: kyby_chibang6_tex_125
+  - first:
+      213: -612993604252033781
+    second: kyby_chibang6_tex_126
+  - first:
+      213: 6952718433984079199
+    second: kyby_chibang6_tex_127
+  - first:
+      213: 3855134809100542125
+    second: kyby_chibang6_tex_128
+  - first:
+      213: -1052758713197315167
+    second: kyby_chibang6_tex_129
+  - first:
+      213: 3334462030171544333
+    second: kyby_chibang6_tex_130
+  - first:
+      213: -5101544859854195526
+    second: kyby_chibang6_tex_131
+  - first:
+      213: -1905914758354949810
+    second: kyby_chibang6_tex_132
+  - first:
+      213: -3801503463361990331
+    second: kyby_chibang6_tex_133
+  - first:
+      213: 1845084368932351188
+    second: kyby_chibang6_tex_134
+  - first:
+      213: -3866283116876084510
+    second: kyby_chibang6_tex_135
+  - first:
+      213: 4145211073850338837
+    second: kyby_chibang6_tex_136
+  - first:
+      213: 6369744475179443282
+    second: kyby_chibang6_tex_137
+  - first:
+      213: 7829166935847225709
+    second: kyby_chibang6_tex_138
+  - first:
+      213: -4643689453779974028
+    second: kyby_chibang6_tex_139
+  - first:
+      213: 8099699777878621394
+    second: kyby_chibang6_tex_140
+  - first:
+      213: -3237528958981742766
+    second: kyby_chibang6_tex_141
+  - first:
+      213: -5301095706297205891
+    second: kyby_chibang6_tex_142
+  - first:
+      213: 2430798448976851018
+    second: kyby_chibang6_tex_143
+  - first:
+      213: 8303721309248952035
+    second: kyby_chibang6_tex_144
+  - first:
+      213: -6979182404760242320
+    second: kyby_chibang6_tex_145
+  - first:
+      213: -8528238397657992415
+    second: kyby_chibang6_tex_146
+  - first:
+      213: -7756273388410526181
+    second: kyby_chibang6_tex_147
+  - first:
+      213: -5341877837941408482
+    second: kyby_chibang6_tex_148
+  - first:
+      213: -5438949179345375404
+    second: kyby_chibang6_tex_149
+  - first:
+      213: -6905428206022207637
+    second: kyby_chibang6_tex_150
+  - first:
+      213: 3804916361648065001
+    second: kyby_chibang6_tex_151
+  - first:
+      213: 3805125971850895363
+    second: kyby_chibang6_tex_152
+  - first:
+      213: 4866341563926473060
+    second: kyby_chibang6_tex_153
+  - first:
+      213: -4793941132983028246
+    second: kyby_chibang6_tex_154
+  - first:
+      213: -5254028930757533623
+    second: kyby_chibang6_tex_155
+  - first:
+      213: -818184253465243294
+    second: kyby_chibang6_tex_156
+  - first:
+      213: -1241948285515711319
+    second: kyby_chibang6_tex_157
+  - first:
+      213: 6148589630226536426
+    second: kyby_chibang6_tex_158
+  - first:
+      213: 320865591783356195
+    second: kyby_chibang6_tex_159
+  - first:
+      213: -8069598995270237747
+    second: kyby_chibang6_tex_160
+  - first:
+      213: -2706426672409088871
+    second: kyby_chibang6_tex_161
+  - first:
+      213: 486376323333404227
+    second: kyby_chibang6_tex_162
+  - first:
+      213: -8815777929437158783
+    second: kyby_chibang6_tex_163
+  - first:
+      213: -1522939935715601558
+    second: kyby_chibang6_tex_164
+  - first:
+      213: 3103955040785765263
+    second: kyby_chibang6_tex_165
+  - first:
+      213: 8807898607372412626
+    second: kyby_chibang6_tex_166
+  - first:
+      213: -3849589918647674525
+    second: kyby_chibang6_tex_167
+  - first:
+      213: 4279053433825112150
+    second: kyby_chibang6_tex_168
+  - first:
+      213: 452889473754835710
+    second: kyby_chibang6_tex_169
+  - first:
+      213: -4407232650851596654
+    second: kyby_chibang6_tex_170
+  - first:
+      213: -7093821219929264281
+    second: kyby_chibang6_tex_171
+  - first:
+      213: -3891737297451766671
+    second: kyby_chibang6_tex_172
+  - first:
+      213: -4274824416470834434
+    second: kyby_chibang6_tex_173
+  - first:
+      213: 8056357240458613962
+    second: kyby_chibang6_tex_174
+  - first:
+      213: 3916750813565493966
+    second: kyby_chibang6_tex_175
+  - first:
+      213: -7150947253074941420
+    second: kyby_chibang6_tex_176
+  - first:
+      213: 791628919766962273
+    second: kyby_chibang6_tex_177
+  - first:
+      213: 891816516618284174
+    second: kyby_chibang6_tex_178
+  - first:
+      213: 5277456881743353891
+    second: kyby_chibang6_tex_179
+  - first:
+      213: -1467942889947433941
+    second: kyby_chibang6_tex_180
+  - first:
+      213: 7474142335721233010
+    second: kyby_chibang6_tex_181
+  - first:
+      213: 2943451368668816163
+    second: kyby_chibang6_tex_182
+  - first:
+      213: 3287974004824690145
+    second: kyby_chibang6_tex_183
+  - first:
+      213: 1786447479576890714
+    second: kyby_chibang6_tex_184
+  - first:
+      213: 1879068894137038384
+    second: kyby_chibang6_tex_185
+  - first:
+      213: -1996886001674466440
+    second: kyby_chibang6_tex_186
+  - first:
+      213: -7479207662169783344
+    second: kyby_chibang6_tex_187
+  - first:
+      213: 2242825249799472657
+    second: kyby_chibang6_tex_188
+  - first:
+      213: -101908631909648588
+    second: kyby_chibang6_tex_189
+  - first:
+      213: 358993811472496473
+    second: kyby_chibang6_tex_190
+  - first:
+      213: -3118850912096582170
+    second: kyby_chibang6_tex_191
+  - first:
+      213: -7173986566311185999
+    second: kyby_chibang6_tex_192
+  - first:
+      213: -4170222941922403976
+    second: kyby_chibang6_tex_193
+  - first:
+      213: 3887563504854500842
+    second: kyby_chibang6_tex_194
+  - first:
+      213: 1598658192248015940
+    second: kyby_chibang6_tex_195
+  - first:
+      213: -6262137557559642037
+    second: kyby_chibang6_tex_196
+  - first:
+      213: 2973411383810782689
+    second: kyby_chibang6_tex_197
+  - first:
+      213: -7121346685401622220
+    second: kyby_chibang6_tex_198
+  - first:
+      213: -3212839074470261330
+    second: kyby_chibang6_tex_199
+  - first:
+      213: -7404862596377004291
+    second: kyby_chibang6_tex_200
+  - first:
+      213: 1798484094171499921
+    second: kyby_chibang6_tex_201
+  - first:
+      213: -3068146475479505707
+    second: kyby_chibang6_tex_202
+  - first:
+      213: 3570367777008709330
+    second: kyby_chibang6_tex_203
+  - first:
+      213: 2873489742068827630
+    second: kyby_chibang6_tex_204
+  - first:
+      213: 1968846889418659018
+    second: kyby_chibang6_tex_205
+  - first:
+      213: 4701890926435222300
+    second: kyby_chibang6_tex_206
+  - first:
+      213: -4146155601474104067
+    second: kyby_chibang6_tex_207
+  - first:
+      213: 8313178405242232851
+    second: kyby_chibang6_tex_208
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 221
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce7e120d46441180800000000000000
+      internalID: -9145607646720655668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1004
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b7e207d8af3ea30800000000000000
+      internalID: 4243510759292566353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 995
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dd610fc3be12750800000000000000
+      internalID: 6278558002489777467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1005
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a765853fb1e40130800000000000000
+      internalID: 3532196219118249897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1000
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2105d2481dfada750800000000000000
+      internalID: 6317899166671261714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_5
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 988
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d20eadf0a871e280800000000000000
+      internalID: -9015792346172882215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 996
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f8c963b549008b0800000000000000
+      internalID: -5187983651251646618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 982
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c3607ef07e39660800000000000000
+      internalID: 7391505468931587184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 985
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0abbf346461d1b00800000000000000
+      internalID: 800820799785908746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 979
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aeac7803d131d00800000000000000
+      internalID: 942128841324423768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 912
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6abee544ef4dc390800000000000000
+      internalID: -7796487538064049556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 951
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf53cfbeed83e00800000000000000
+      internalID: 1024814020356864847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_12
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 976
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fdef4719f322b70800000000000000
+      internalID: 8872724109838966602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 969
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91141cbc7d0f27590800000000000000
+      internalID: -7677809605086199527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 979
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ddfc4ff2f728f0800000000000000
+      internalID: -565216049889422828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 951
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa2927b79ddf0fb0800000000000000
+      internalID: -4679277844131927307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 917
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222bb37140cf957a0800000000000000
+      internalID: -6387797501948480990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 953
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab8d7bea67ded1d0800000000000000
+      internalID: -3323982620735468639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_18
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 939
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2078dae7639380fc0800000000000000
+      internalID: -3528507401828464894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_19
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 915
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dae1000d395f8a50800000000000000
+      internalID: 6525532503611140824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_20
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 968
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac166271a50eac7f0800000000000000
+      internalID: -591413723505729078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 950
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398fd4927aec88320800000000000000
+      internalID: 2560523605507963027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 955
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77246866be674f40800000000000000
+      internalID: 5712656382057260922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 936
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a218c7aa1a89bbf50800000000000000
+      internalID: 6898275074365489450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 942
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b624db9cc2bc2b530800000000000000
+      internalID: 3869378423088300651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 938
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552fe2cc7f52516d0800000000000000
+      internalID: -3020466228869270955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 918
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b5e111579223b20800000000000000
+      internalID: 3112595875241548691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_27
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 929
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5693bb37333960140800000000000000
+      internalID: 4685594311519844709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 916
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0c15a484a92c110800000000000000
+      internalID: 1279754879401836781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 929
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f6681cc363b7b90800000000000000
+      internalID: -7243135941122560126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_30
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 922
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a63197929a0daa0800000000000000
+      internalID: -6138220296515917260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 917
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80225957422d437e0800000000000000
+      internalID: -1786572098125880824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 912
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c626290c538ce200800000000000000
+      internalID: 210687713893295813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_33
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 850
+        width: 134
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677436f33c46b7b10800000000000000
+      internalID: 1980287250904336246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_34
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 912
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732eacc8fc056ea0800000000000000
+      internalID: -5880279475736927369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_35
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 875
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e128a685c07aed550800000000000000
+      internalID: 6187566609518461470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 887
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5683b2504ff2e5380800000000000000
+      internalID: -8980687881824946075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 871
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abe2a293801b2360800000000000000
+      internalID: 7145823391040334761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_38
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 883
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa3731d12486f5d0800000000000000
+      internalID: -3029088418581234956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_39
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 850
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018198b5fd35491c0800000000000000
+      internalID: -4497877909057759216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_40
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 881
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ea45e846997560800000000000000
+      internalID: 7312040709841413624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_41
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 812
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adf0d8eaa9ba2460800000000000000
+      internalID: 7217785496516230564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 839
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dcda6d1bd059410800000000000000
+      internalID: 1483106709750533382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2acfac3575ec0a0800000000000000
+      internalID: -6859449165039230297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_44
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 800
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e0707f9c953cfd0800000000000000
+      internalID: -2322914258825310591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_45
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 623
+        width: 189
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4076d744440096b0800000000000000
+      internalID: -5291724870850809779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 784
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec151ed6bf1e9d370800000000000000
+      internalID: 8347951854304448974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 783
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d75f8bd4cb08ef30800000000000000
+      internalID: 4604943559111432144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_48
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 734
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b12ade54fe1bf90800000000000000
+      internalID: -6939502467182617819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_49
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 518
+        width: 178
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5b498c3a48fed50800000000000000
+      internalID: 6768774603940869630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_50
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 581
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8681230bc0b1340800000000000000
+      internalID: 4835472575806597280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 722
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d4c99f381f01870800000000000000
+      internalID: 8651680433309502742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 707
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b21bac123a23b160800000000000000
+      internalID: 7040017037227922096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 690
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffa345492734a1d0800000000000000
+      internalID: -3340484373206814735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 697
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0f02bfa13841090800000000000000
+      internalID: -8064676880808087305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d08b2487d96cb20800000000000000
+      internalID: 3154381728860605749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 665
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5011ff1b311990280800000000000000
+      internalID: -9076564060211834619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe44485d35d8ca40800000000000000
+      internalID: 5388791413599391482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 624
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96537189f0f72480800000000000000
+      internalID: -8923899182202005858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 643
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2adad8d4406b0d0800000000000000
+      internalID: -3407531336923241771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_60
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 648
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eb586e3a322bc20800000000000000
+      internalID: 3220675870377492026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 622
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4809cca9879437610800000000000000
+      internalID: 1617717473498140804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 611
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219a9c189c7baf0f0800000000000000
+      internalID: -1082350684335396590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 612
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d8f6b7341130b70800000000000000
+      internalID: 8863947473126657348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_64
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 410
+        width: 106
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7695ffa299f60e0800000000000000
+      internalID: -2274430876847085654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 558
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e7b4b7d008e3170800000000000000
+      internalID: 8160100370233392701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abde889218328ecd0800000000000000
+      internalID: -2528732153113940550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 542
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444354f5b2c220400800000000000000
+      internalID: 288841890898719812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 544
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bca00d87a84bcc0800000000000000
+      internalID: -3696177142673257593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_69
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 401
+        width: 188
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0b1d8a500c9fa0800000000000000
+      internalID: -5792754631790883533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_70
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 540
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d59d8e072550550800000000000000
+      internalID: 6126393513003801866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 510
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259ab1ba0a6e9e550800000000000000
+      internalID: 6190732740537330002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_72
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 519
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8585885f7df4750800000000000000
+      internalID: 6291484654014322918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 502
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d9e866d4f4e8290800000000000000
+      internalID: -7886278703627461371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_74
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 501
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e106000c40ccc0cd0800000000000000
+      internalID: -2590471364871692258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 487
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8aa5b278902f3f0800000000000000
+      internalID: -868621301976487744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_76
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 481
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78209f8b3bf0e0c0800000000000000
+      internalID: -4548359390413969286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_77
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 487
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ca4c225cbbe380800000000000000
+      internalID: -8940845574097549015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 482
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf8ac63b3996fc0800000000000000
+      internalID: -3501104836472407215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_79
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 489
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5192041800585df10800000000000000
+      internalID: 2293885822430095637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_80
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 458
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca1a7f6d10c1e7e0800000000000000
+      internalID: -1737896748531442997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_81
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 480
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a41e5df56c6e5d0800000000000000
+      internalID: -3033519184074945975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 471
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072d3e18f89228880800000000000000
+      internalID: -8610273841242713488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 436
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294dbd96553e320d0800000000000000
+      internalID: -3448662933647928174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_84
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 468
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97434a9afdd2e47c0800000000000000
+      internalID: -4085277373331393415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_85
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 456
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd8ab9c3fadd830800000000000000
+      internalID: 4097623910821452686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_86
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 454
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d80cca71b971a10800000000000000
+      internalID: 1880141895435324793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_87
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 465
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751074fe38d0ed080800000000000000
+      internalID: -9160869731718725289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_88
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 464
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6ad481ead3613e0800000000000000
+      internalID: -2083409959670929704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 438
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344da4470bc9681c0800000000000000
+      internalID: -4501738495830993853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_90
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 436
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b95428ddcc58a0800000000000000
+      internalID: -6314946249273788312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_91
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 434
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fb2ba3ee987a580800000000000000
+      internalID: -8815926089274441832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 444
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a4cec1801fe79a0800000000000000
+      internalID: -6233279817086907777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 426
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8bc8c2ae33dc320800000000000000
+      internalID: 2579775242415945910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3133ffac36d51c370800000000000000
+      internalID: 8341050668055737107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 417
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bdb76c8fa75a450800000000000000
+      internalID: 6099416479243688708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_96
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 425
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feed0d49e4fad0b0800000000000000
+      internalID: -5702976695253995785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_97
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 418
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd2a7420d2eabc0800000000000000
+      internalID: -3770026350247486302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_98
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b67e43c44690c0800000000000000
+      internalID: -4569389166295075088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 409
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c780c7a72462c50800000000000000
+      internalID: 6640067794438749321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_100
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 413
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd72aefdd6b86760800000000000000
+      internalID: 7451406648060575152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_101
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 414
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c67e5aa19b685130800000000000000
+      internalID: 3555710179181754055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_102
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 404
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4017d577966766070800000000000000
+      internalID: 8099291175218671876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_103
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 348
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81ab8ead8d19fd10800000000000000
+      internalID: 2159789990656844172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 406
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a96893b8dd54f40800000000000000
+      internalID: 5712215292424657446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_105
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 387
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597cec8d125fbade0800000000000000
+      internalID: -1320692539982952555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_106
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b5a1499075d9d90800000000000000
+      internalID: -7089414539760215222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_107
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 390
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5de2e225056e6e30800000000000000
+      internalID: 4498644150524243293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_108
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 392
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4699dc0a04e536d0800000000000000
+      internalID: -3011250044010916274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_109
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8567d2654a06030800000000000000
+      internalID: 3485966801621637333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 384
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d303e12dd1f4b100800000000000000
+      internalID: 122989021904438228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_111
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 375
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848d2e14a91820c90800000000000000
+      internalID: -7205053954309040056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 352
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1663ffc29c7e73040800000000000000
+      internalID: 4627421993375839841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_113
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 360
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f84956bb3880ff0800000000000000
+      internalID: -69660953337884796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_114
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 373
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c68175e3ddb2c20800000000000000
+      internalID: 3182880821486316637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_115
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 366
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46e3508a133f0680800000000000000
+      internalID: -8786748159061399990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_116
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 370
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93628b19236c6d750800000000000000
+      internalID: 6329464246811239993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_117
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 119
+        width: 178
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef089cda0a39180800000000000000
+      internalID: -9109760952969920928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_118
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 164
+        width: 148
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6875faa322667b1d0800000000000000
+      internalID: -3335084701845071994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_119
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 344
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c25603ac5865e0800000000000000
+      internalID: -1916179786190632731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_120
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe3bcb79723d8b90800000000000000
+      internalID: -7238073528765169990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_121
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 358
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78adf69fea50d76a0800000000000000
+      internalID: -6449992842257376633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_122
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 326
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268ea7cb78174c140800000000000000
+      internalID: 4739037535697299554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_123
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 335
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017a4cb1f0cbae9e0800000000000000
+      internalID: -1591252745245645040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_124
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 317
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08450e8982cd4a0800000000000000
+      internalID: -6567329519549251368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_125
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 289
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cfd0cb72bf241c0800000000000000
+      internalID: -4520774927849227252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_126
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 288
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d98f090953e77f0800000000000000
+      internalID: -612993604252033781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_127
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 269
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f556ee024940d7060800000000000000
+      internalID: 6952718433984079199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_128
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 287
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da06ea9fea0308530800000000000000
+      internalID: 3855134809100542125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_129
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 270
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab3da13789d361f0800000000000000
+      internalID: -1052758713197315167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_130
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 278
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b1769bc83664e20800000000000000
+      internalID: 3334462030171544333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_131
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 240
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4bba6aafba339b0800000000000000
+      internalID: -5101544859854195526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_132
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49241010a4dc85e0800000000000000
+      internalID: -1905914758354949810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_133
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54134e5cdb85e3bc0800000000000000
+      internalID: -3801503463361990331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_134
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 213
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca6d6357e0b9910800000000000000
+      internalID: 1845084368932351188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_135
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 236
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eac2895df3385ac0800000000000000
+      internalID: -3866283116876084510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_136
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 240
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6dd7628fb68930800000000000000
+      internalID: 4145211073850338837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_137
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 218
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254e3111ad0e56850800000000000000
+      internalID: 6369744475179443282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_138
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 237
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d694862f8d9c6ac60800000000000000
+      internalID: 7829166935847225709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_139
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 219
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478873c8b0d4e8fb0800000000000000
+      internalID: -4643689453779974028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_140
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 220
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf3cfa80ae76070800000000000000
+      internalID: 8099699777878621394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_141
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f5ad1a09cf113d0800000000000000
+      internalID: -3237528958981742766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b7ec1aa89be66b0800000000000000
+      internalID: -5301095706297205891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_143
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 205
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40f5d77f4eebb120800000000000000
+      internalID: 2430798448976851018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_144
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 200
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e610a7298ebc3370800000000000000
+      internalID: 8303721309248952035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_145
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077fb958496f42f90800000000000000
+      internalID: -6979182404760242320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_146
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 197
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123bfb3ac5c95a980800000000000000
+      internalID: -8528238397657992415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_147
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 184
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16a9fe927e2c5490800000000000000
+      internalID: -7756273388410526181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_148
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 188
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d78fba866ddd5b0800000000000000
+      internalID: -5341877837941408482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_149
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 203
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f67b5c988f484b0800000000000000
+      internalID: -5438949179345375404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_150
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 183
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67551612adfa20a0800000000000000
+      internalID: -6905428206022207637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_151
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ca188547cdc430800000000000000
+      internalID: 3804916361648065001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_152
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 171
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30029c539e58ec430800000000000000
+      internalID: 3805125971850895363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_153
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 171
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4696e819ed7b88340800000000000000
+      internalID: 4866341563926473060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5b96e50ff787db0800000000000000
+      internalID: -4793941132983028246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_155
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 188
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94062964680f517b0800000000000000
+      internalID: -5254028930757533623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_156
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 168
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261d263a1c935a4f0800000000000000
+      internalID: -818184253465243294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_157
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 185
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac3e6c4d96b3cee0800000000000000
+      internalID: -1241948285515711319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_158
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 159
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79d4b21bd245550800000000000000
+      internalID: 6148589630226536426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_159
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 184
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32774e24e81f37400800000000000000
+      internalID: 320865591783356195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_160
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 179
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc18117e776030090800000000000000
+      internalID: -8069598995270237747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_161
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 121
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ce96cd747d07ad0800000000000000
+      internalID: -2706426672409088871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_162
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 156
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346b27b60b4ffb600800000000000000
+      internalID: 486376323333404227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_163
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 144
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1826b216ea018a580800000000000000
+      internalID: -8815777929437158783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_164
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 133
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a635a65823e6ddae0800000000000000
+      internalID: -1522939935715601558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_165
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 145
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8391d40aa6731b20800000000000000
+      internalID: 3103955040785765263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_166
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 148
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6271efd11fb3a70800000000000000
+      internalID: 8807898607372412626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_167
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 143
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36994107d52839ac0800000000000000
+      internalID: -3849589918647674525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_168
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 148
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650bf0a3d60426b30800000000000000
+      internalID: 4279053433825112150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_169
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 140
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaabada39cf84600800000000000000
+      internalID: 452889473754835710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_170
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 143
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296cc7b214d56d2c0800000000000000
+      internalID: -4407232650851596654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_171
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 144
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fecf56f2fad8d90800000000000000
+      internalID: -7093821219929264281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_172
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 156
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17caf3a1c85cdf9c0800000000000000
+      internalID: -3891737297451766671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_173
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 133
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2e61b97d5cca4c0800000000000000
+      internalID: -4274824416470834434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_174
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49e2dc93eedcf60800000000000000
+      internalID: 8056357240458613962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_175
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec22b44fc181b5630800000000000000
+      internalID: 3916750813565493966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_176
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aa9e45c5bb2cc90800000000000000
+      internalID: -7150947253074941420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_177
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 124
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160d2acee4e6cfa00800000000000000
+      internalID: 791628919766962273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_178
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 129
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cebd5956e506c00800000000000000
+      internalID: 891816516618284174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_179
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328d0c1a21b4d3940800000000000000
+      internalID: 5277456881743353891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_180
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b247f1618b1d0abe0800000000000000
+      internalID: -1467942889947433941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_181
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a5f59cadc79b760800000000000000
+      internalID: 7474142335721233010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_182
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 94
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323642bbc6d39d820800000000000000
+      internalID: 2943451368668816163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_183
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 49
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed4b4cdfea31ad20800000000000000
+      internalID: 3287974004824690145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_184
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 99
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8216848cbac810800000000000000
+      internalID: 1786447479576890714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_185
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363687143bc31a10800000000000000
+      internalID: 1879068894137038384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_186
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 91
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b4e3de2c2a944e0800000000000000
+      internalID: -1996886001674466440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_187
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 103
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d38dfef144843890800000000000000
+      internalID: -7479207662169783344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_188
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 108
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11603938ead102f10800000000000000
+      internalID: 2242825249799472657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_189
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 107
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ba73a3a2f59ef0800000000000000
+      internalID: -101908631909648588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_190
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 106
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957b16138f66bf400800000000000000
+      internalID: 358993811472496473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_191
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 60
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5841dae9d97b4d0800000000000000
+      internalID: -3118850912096582170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_192
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 42
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f8933a31e07c90800000000000000
+      internalID: -7173986566311185999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_193
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 87
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879d78044546026c0800000000000000
+      internalID: -4170222941922403976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_194
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 91
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae500a4196663f530800000000000000
+      internalID: 3887563504854500842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_195
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 91
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c0632e7239f2610800000000000000
+      internalID: 1598658192248015940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_196
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 93
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487603d11b6819a0800000000000000
+      internalID: -6262137557559642037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_197
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 91
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f42756eda34920800000000000000
+      internalID: 2973411383810782689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_198
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391b3e8be4eb2d90800000000000000
+      internalID: -7121346685401622220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_199
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead84b552e3b963d0800000000000000
+      internalID: -3212839074470261330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_200
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df63f5483b4ac3990800000000000000
+      internalID: -7404862596377004291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_201
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d484f31cf75f810800000000000000
+      internalID: 1798484094171499921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_202
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 65
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d46d2a4901cb65d0800000000000000
+      internalID: -3068146475479505707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_203
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 31
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deea1a939e7c8130800000000000000
+      internalID: 3570367777008709330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_204
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 33
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5cdbd22bfa0e720800000000000000
+      internalID: 2873489742068827630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_205
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 40
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49ee480dfb25b10800000000000000
+      internalID: 1968846889418659018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_206
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13cdcac2e8704140800000000000000
+      internalID: 4701890926435222300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_207
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4d3ae9275e576c0800000000000000
+      internalID: -4146155601474104067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyby_chibang6_tex_208
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31069e6e6b75e5370800000000000000
+      internalID: 8313178405242232851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kyby_chibang6_tex_0: -9145607646720655668
+      kyby_chibang6_tex_1: 4243510759292566353
+      kyby_chibang6_tex_10: -7796487538064049556
+      kyby_chibang6_tex_100: 7451406648060575152
+      kyby_chibang6_tex_101: 3555710179181754055
+      kyby_chibang6_tex_102: 8099291175218671876
+      kyby_chibang6_tex_103: 2159789990656844172
+      kyby_chibang6_tex_104: 5712215292424657446
+      kyby_chibang6_tex_105: -1320692539982952555
+      kyby_chibang6_tex_106: -7089414539760215222
+      kyby_chibang6_tex_107: 4498644150524243293
+      kyby_chibang6_tex_108: -3011250044010916274
+      kyby_chibang6_tex_109: 3485966801621637333
+      kyby_chibang6_tex_11: 1024814020356864847
+      kyby_chibang6_tex_110: 122989021904438228
+      kyby_chibang6_tex_111: -7205053954309040056
+      kyby_chibang6_tex_112: 4627421993375839841
+      kyby_chibang6_tex_113: -69660953337884796
+      kyby_chibang6_tex_114: 3182880821486316637
+      kyby_chibang6_tex_115: -8786748159061399990
+      kyby_chibang6_tex_116: 6329464246811239993
+      kyby_chibang6_tex_117: -9109760952969920928
+      kyby_chibang6_tex_118: -3335084701845071994
+      kyby_chibang6_tex_119: -1916179786190632731
+      kyby_chibang6_tex_12: 8872724109838966602
+      kyby_chibang6_tex_120: -7238073528765169990
+      kyby_chibang6_tex_121: -6449992842257376633
+      kyby_chibang6_tex_122: 4739037535697299554
+      kyby_chibang6_tex_123: -1591252745245645040
+      kyby_chibang6_tex_124: -6567329519549251368
+      kyby_chibang6_tex_125: -4520774927849227252
+      kyby_chibang6_tex_126: -612993604252033781
+      kyby_chibang6_tex_127: 6952718433984079199
+      kyby_chibang6_tex_128: 3855134809100542125
+      kyby_chibang6_tex_129: -1052758713197315167
+      kyby_chibang6_tex_13: -7677809605086199527
+      kyby_chibang6_tex_130: 3334462030171544333
+      kyby_chibang6_tex_131: -5101544859854195526
+      kyby_chibang6_tex_132: -1905914758354949810
+      kyby_chibang6_tex_133: -3801503463361990331
+      kyby_chibang6_tex_134: 1845084368932351188
+      kyby_chibang6_tex_135: -3866283116876084510
+      kyby_chibang6_tex_136: 4145211073850338837
+      kyby_chibang6_tex_137: 6369744475179443282
+      kyby_chibang6_tex_138: 7829166935847225709
+      kyby_chibang6_tex_139: -4643689453779974028
+      kyby_chibang6_tex_14: -565216049889422828
+      kyby_chibang6_tex_140: 8099699777878621394
+      kyby_chibang6_tex_141: -3237528958981742766
+      kyby_chibang6_tex_142: -5301095706297205891
+      kyby_chibang6_tex_143: 2430798448976851018
+      kyby_chibang6_tex_144: 8303721309248952035
+      kyby_chibang6_tex_145: -6979182404760242320
+      kyby_chibang6_tex_146: -8528238397657992415
+      kyby_chibang6_tex_147: -7756273388410526181
+      kyby_chibang6_tex_148: -5341877837941408482
+      kyby_chibang6_tex_149: -5438949179345375404
+      kyby_chibang6_tex_15: -4679277844131927307
+      kyby_chibang6_tex_150: -6905428206022207637
+      kyby_chibang6_tex_151: 3804916361648065001
+      kyby_chibang6_tex_152: 3805125971850895363
+      kyby_chibang6_tex_153: 4866341563926473060
+      kyby_chibang6_tex_154: -4793941132983028246
+      kyby_chibang6_tex_155: -5254028930757533623
+      kyby_chibang6_tex_156: -818184253465243294
+      kyby_chibang6_tex_157: -1241948285515711319
+      kyby_chibang6_tex_158: 6148589630226536426
+      kyby_chibang6_tex_159: 320865591783356195
+      kyby_chibang6_tex_16: -6387797501948480990
+      kyby_chibang6_tex_160: -8069598995270237747
+      kyby_chibang6_tex_161: -2706426672409088871
+      kyby_chibang6_tex_162: 486376323333404227
+      kyby_chibang6_tex_163: -8815777929437158783
+      kyby_chibang6_tex_164: -1522939935715601558
+      kyby_chibang6_tex_165: 3103955040785765263
+      kyby_chibang6_tex_166: 8807898607372412626
+      kyby_chibang6_tex_167: -3849589918647674525
+      kyby_chibang6_tex_168: 4279053433825112150
+      kyby_chibang6_tex_169: 452889473754835710
+      kyby_chibang6_tex_17: -3323982620735468639
+      kyby_chibang6_tex_170: -4407232650851596654
+      kyby_chibang6_tex_171: -7093821219929264281
+      kyby_chibang6_tex_172: -3891737297451766671
+      kyby_chibang6_tex_173: -4274824416470834434
+      kyby_chibang6_tex_174: 8056357240458613962
+      kyby_chibang6_tex_175: 3916750813565493966
+      kyby_chibang6_tex_176: -7150947253074941420
+      kyby_chibang6_tex_177: 791628919766962273
+      kyby_chibang6_tex_178: 891816516618284174
+      kyby_chibang6_tex_179: 5277456881743353891
+      kyby_chibang6_tex_18: -3528507401828464894
+      kyby_chibang6_tex_180: -1467942889947433941
+      kyby_chibang6_tex_181: 7474142335721233010
+      kyby_chibang6_tex_182: 2943451368668816163
+      kyby_chibang6_tex_183: 3287974004824690145
+      kyby_chibang6_tex_184: 1786447479576890714
+      kyby_chibang6_tex_185: 1879068894137038384
+      kyby_chibang6_tex_186: -1996886001674466440
+      kyby_chibang6_tex_187: -7479207662169783344
+      kyby_chibang6_tex_188: 2242825249799472657
+      kyby_chibang6_tex_189: -101908631909648588
+      kyby_chibang6_tex_19: 6525532503611140824
+      kyby_chibang6_tex_190: 358993811472496473
+      kyby_chibang6_tex_191: -3118850912096582170
+      kyby_chibang6_tex_192: -7173986566311185999
+      kyby_chibang6_tex_193: -4170222941922403976
+      kyby_chibang6_tex_194: 3887563504854500842
+      kyby_chibang6_tex_195: 1598658192248015940
+      kyby_chibang6_tex_196: -6262137557559642037
+      kyby_chibang6_tex_197: 2973411383810782689
+      kyby_chibang6_tex_198: -7121346685401622220
+      kyby_chibang6_tex_199: -3212839074470261330
+      kyby_chibang6_tex_2: 6278558002489777467
+      kyby_chibang6_tex_20: -591413723505729078
+      kyby_chibang6_tex_200: -7404862596377004291
+      kyby_chibang6_tex_201: 1798484094171499921
+      kyby_chibang6_tex_202: -3068146475479505707
+      kyby_chibang6_tex_203: 3570367777008709330
+      kyby_chibang6_tex_204: 2873489742068827630
+      kyby_chibang6_tex_205: 1968846889418659018
+      kyby_chibang6_tex_206: 4701890926435222300
+      kyby_chibang6_tex_207: -4146155601474104067
+      kyby_chibang6_tex_208: 8313178405242232851
+      kyby_chibang6_tex_21: 2560523605507963027
+      kyby_chibang6_tex_22: 5712656382057260922
+      kyby_chibang6_tex_23: 6898275074365489450
+      kyby_chibang6_tex_24: 3869378423088300651
+      kyby_chibang6_tex_25: -3020466228869270955
+      kyby_chibang6_tex_26: 3112595875241548691
+      kyby_chibang6_tex_27: 4685594311519844709
+      kyby_chibang6_tex_28: 1279754879401836781
+      kyby_chibang6_tex_29: -7243135941122560126
+      kyby_chibang6_tex_3: 3532196219118249897
+      kyby_chibang6_tex_30: -6138220296515917260
+      kyby_chibang6_tex_31: -1786572098125880824
+      kyby_chibang6_tex_32: 210687713893295813
+      kyby_chibang6_tex_33: 1980287250904336246
+      kyby_chibang6_tex_34: -5880279475736927369
+      kyby_chibang6_tex_35: 6187566609518461470
+      kyby_chibang6_tex_36: -8980687881824946075
+      kyby_chibang6_tex_37: 7145823391040334761
+      kyby_chibang6_tex_38: -3029088418581234956
+      kyby_chibang6_tex_39: -4497877909057759216
+      kyby_chibang6_tex_4: 6317899166671261714
+      kyby_chibang6_tex_40: 7312040709841413624
+      kyby_chibang6_tex_41: 7217785496516230564
+      kyby_chibang6_tex_42: 1483106709750533382
+      kyby_chibang6_tex_43: -6859449165039230297
+      kyby_chibang6_tex_44: -2322914258825310591
+      kyby_chibang6_tex_45: -5291724870850809779
+      kyby_chibang6_tex_46: 8347951854304448974
+      kyby_chibang6_tex_47: 4604943559111432144
+      kyby_chibang6_tex_48: -6939502467182617819
+      kyby_chibang6_tex_49: 6768774603940869630
+      kyby_chibang6_tex_5: -9015792346172882215
+      kyby_chibang6_tex_50: 4835472575806597280
+      kyby_chibang6_tex_51: 8651680433309502742
+      kyby_chibang6_tex_52: 7040017037227922096
+      kyby_chibang6_tex_53: -3340484373206814735
+      kyby_chibang6_tex_54: -8064676880808087305
+      kyby_chibang6_tex_55: 3154381728860605749
+      kyby_chibang6_tex_56: -9076564060211834619
+      kyby_chibang6_tex_57: 5388791413599391482
+      kyby_chibang6_tex_58: -8923899182202005858
+      kyby_chibang6_tex_59: -3407531336923241771
+      kyby_chibang6_tex_6: -5187983651251646618
+      kyby_chibang6_tex_60: 3220675870377492026
+      kyby_chibang6_tex_61: 1617717473498140804
+      kyby_chibang6_tex_62: -1082350684335396590
+      kyby_chibang6_tex_63: 8863947473126657348
+      kyby_chibang6_tex_64: -2274430876847085654
+      kyby_chibang6_tex_65: 8160100370233392701
+      kyby_chibang6_tex_66: -2528732153113940550
+      kyby_chibang6_tex_67: 288841890898719812
+      kyby_chibang6_tex_68: -3696177142673257593
+      kyby_chibang6_tex_69: -5792754631790883533
+      kyby_chibang6_tex_7: 7391505468931587184
+      kyby_chibang6_tex_70: 6126393513003801866
+      kyby_chibang6_tex_71: 6190732740537330002
+      kyby_chibang6_tex_72: 6291484654014322918
+      kyby_chibang6_tex_73: -7886278703627461371
+      kyby_chibang6_tex_74: -2590471364871692258
+      kyby_chibang6_tex_75: -868621301976487744
+      kyby_chibang6_tex_76: -4548359390413969286
+      kyby_chibang6_tex_77: -8940845574097549015
+      kyby_chibang6_tex_78: -3501104836472407215
+      kyby_chibang6_tex_79: 2293885822430095637
+      kyby_chibang6_tex_8: 800820799785908746
+      kyby_chibang6_tex_80: -1737896748531442997
+      kyby_chibang6_tex_81: -3033519184074945975
+      kyby_chibang6_tex_82: -8610273841242713488
+      kyby_chibang6_tex_83: -3448662933647928174
+      kyby_chibang6_tex_84: -4085277373331393415
+      kyby_chibang6_tex_85: 4097623910821452686
+      kyby_chibang6_tex_86: 1880141895435324793
+      kyby_chibang6_tex_87: -9160869731718725289
+      kyby_chibang6_tex_88: -2083409959670929704
+      kyby_chibang6_tex_89: -4501738495830993853
+      kyby_chibang6_tex_9: 942128841324423768
+      kyby_chibang6_tex_90: -6314946249273788312
+      kyby_chibang6_tex_91: -8815926089274441832
+      kyby_chibang6_tex_92: -6233279817086907777
+      kyby_chibang6_tex_93: 2579775242415945910
+      kyby_chibang6_tex_94: 8341050668055737107
+      kyby_chibang6_tex_95: 6099416479243688708
+      kyby_chibang6_tex_96: -5702976695253995785
+      kyby_chibang6_tex_97: -3770026350247486302
+      kyby_chibang6_tex_98: -4569389166295075088
+      kyby_chibang6_tex_99: 6640067794438749321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

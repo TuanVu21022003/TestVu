@@ -1,0 +1,1 @@
+public class FishMeirenyu2 : BaseFish { }

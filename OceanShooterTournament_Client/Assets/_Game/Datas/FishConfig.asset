@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc7512acbe944949af04204326277b1b, type: 3}
+  m_Name: FishConfig
+  m_EditorClassIdentifier: 
+  listFishConfigs:
+  - fishType: 0
+    fishPrefabs: {fileID: 1486496845996134912, guid: b0478293efe1fd94ab696a461001153b, type: 3}
+  - fishType: 1
+    fishPrefabs: {fileID: 4582555662158801039, guid: d6f6895630006a24896d76d2381bd5a8, type: 3}
+  - fishType: 2
+    fishPrefabs: {fileID: -7229625005617582997, guid: 5020a433888c7e945ae4d3d885493f43, type: 3}
+  - fishType: 3
+    fishPrefabs: {fileID: 721638343819858978, guid: 571df88ff40e28540b27538db2759971, type: 3}
+  - fishType: 5
+    fishPrefabs: {fileID: 6756158809395496471, guid: 7aacba7fe40cf8449b86abfcca0519bc, type: 3}
+  - fishType: 4
+    fishPrefabs: {fileID: 2322796629436872057, guid: 08de3dc249cc6ec45871966adbc91828, type: 3}
+  - fishType: 6
+    fishPrefabs: {fileID: 781378853924705667, guid: 1da0aecd4c0c9954c9b9058eab74e7c0, type: 3}
+  - fishType: 7
+    fishPrefabs: {fileID: 1651575266699140891, guid: e13853ab4d62bbc4dba317529ec637dc, type: 3}
+  - fishType: 8
+    fishPrefabs: {fileID: 4607970275550761545, guid: dd65880228efcda43b0ab8ac56cb1dbf, type: 3}
+  - fishType: 9
+    fishPrefabs: {fileID: 888099479579822580, guid: 9085c794876a6b44fa01544dc8e831db, type: 3}
+  - fishType: 10
+    fishPrefabs: {fileID: 8788984654862216863, guid: ed10797d1ca5a814cb7d6e8b4804205b, type: 3}
+  - fishType: 11
+    fishPrefabs: {fileID: 5387818355728486250, guid: 285ae96a06bb46846a1307a73b05a1b5, type: 3}
+  - fishType: 12
+    fishPrefabs: {fileID: 4131374246477849999, guid: 420099be4b777a046ae997c326972a9c, type: 3}
+  - fishType: 13
+    fishPrefabs: {fileID: 7126071049000878546, guid: 6e909ae0f8c495c4790c361943fc8c51, type: 3}
+  - fishType: 14
+    fishPrefabs: {fileID: 6439356522165035812, guid: 4ead4d7ded6334243b706320a0879cd9, type: 3}
+  - fishType: 15
+    fishPrefabs: {fileID: 648724868067560177, guid: 2799ae9048405ac4c9c1142e494e240e, type: 3}
+  - fishType: 16
+    fishPrefabs: {fileID: 115732060101347665, guid: fe9c966442a97fc4ca0555a98c8d33bd, type: 3}
+  - fishType: 17
+    fishPrefabs: {fileID: 4930465444219787696, guid: 96400aa601ad7544d9b1d6a9969cb603, type: 3}
+  - fishType: 18
+    fishPrefabs: {fileID: 1583104471803120171, guid: 020f4b369533e3e409e2cebc612a845f, type: 3}
+  - fishType: 19
+    fishPrefabs: {fileID: 147797147943977775, guid: 8a030bda713db204cbb6748ad84982d5, type: 3}
+  - fishType: 20
+    fishPrefabs: {fileID: 613470193277137323, guid: 5eceb5fecdab56647a836f19d2d4bbf3, type: 3}
+  - fishType: 21
+    fishPrefabs: {fileID: 3316224962636766037, guid: a960f9b2195877b41aebdeff774869e5, type: 3}
+  - fishType: 22
+    fishPrefabs: {fileID: 6788938497012362717, guid: 3281c9fc7e5a00f489f413e8ebe9f104, type: 3}
+  - fishType: 23
+    fishPrefabs: {fileID: 8060798019982717612, guid: c9d7af4424acbf54c8bb0a8da7672d17, type: 3}
+  - fishType: 24
+    fishPrefabs: {fileID: 4760489690323319240, guid: 8962379669dcb41498fb6df850f79066, type: 3}
+  - fishType: 25
+    fishPrefabs: {fileID: 2959938003614185139, guid: 0035f1a0074cf704397b725d1661aa63, type: 3}
+  - fishType: 26
+    fishPrefabs: {fileID: 4233209427452217069, guid: c2b7339177d8a944fa3792e2420dde79, type: 3}
